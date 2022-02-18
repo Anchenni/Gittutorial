@@ -1,0 +1,6 @@
+# to show git version
+git --version
+
+# to clone a respository
+git clone https://github.com/Anchenni/Gittutorial.git
+
