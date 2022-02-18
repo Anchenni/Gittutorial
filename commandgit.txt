@@ -4,3 +4,18 @@ git --version
 # to clone a respository
 git clone https://github.com/Anchenni/Gittutorial.git
 
+# to add files or directory
+git add .  # . or name of the file/directory
+
+#to display the status of the adding files
+git status
+
+#to commit 
+git commit -m " Your message " 
+
+#to push 
+git push
+
+#to add your account 
+git config --global user.name "Your name in github"
+git config --global user.email you@example.com
